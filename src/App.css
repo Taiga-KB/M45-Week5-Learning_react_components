@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+
+}
+
+.Frix {
+  background-color: black;
+  color: brown;
+  font-size: 20px;
+}
+
+.BNB {
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+}
+
+.BBC {
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  border: 3px;
+  border-style: solid;
+
+}
+
+h4 {
+  font-size: 17px;
+}
+
+.news {
+  font-size: 15px;
+  /* text-overflow: clip; */
+}
+
+h4, .news {
+  text-align: left;
+  display: block;
+  width: 200px;
+  /* border: 3px;
+  border-style: solid; */
+}
